@@ -1,0 +1,7 @@
+{
+  "name": "ExpoNativeEventEmitter",
+  "displayName": "ExpoNativeEventEmitter",
+  "plugins": [
+    "expo-localization"
+  ]
+}
